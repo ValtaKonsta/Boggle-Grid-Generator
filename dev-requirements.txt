@@ -1,0 +1,8 @@
+#Dev tools — needed for documentation, formatting, and packaging
+
+black
+flake8
+mkdocs-material
+pdoc
+setuptools
+wheel
